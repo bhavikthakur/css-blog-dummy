@@ -22,16 +22,6 @@ CSS3 (Flexbox & Media Queries)
 
 Google Fonts
 
-Project Structure
-
-/css-blog
-│── index.html
-│── css/
-│ └── styles.css
-│── images/
-│ ├── boardwalk.png
-│ └── fav-icon.png
-└── README.md
 
 Installation & Usage
 
