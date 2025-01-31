@@ -1,21 +1,81 @@
-# cvzPbGsK
+CSS Blog
 
-Quick start:
+Overview
 
-```
-$ npm install
-$ npm start
-````
+This is a simple yet elegant CSS Blog page built as part of Kevin Powell's challenge. The project focuses on responsive design and modern CSS best practices, utilizing Flexbox, CSS Variables, and a mobile-first approach.
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+Features
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+Responsive Design: Adapts to different screen sizes for a seamless user experience.
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+Modern Styling: Utilizes CSS variables for easy customization.
 
-Happy Coding!
+Optimized for Performance: Implements lazy loading for images and resets default browser styles.
+
+Accessibility Considerations: Uses semantic HTML for better readability and accessibility.
+
+Technologies Used
+
+HTML5
+
+CSS3 (Flexbox & Media Queries)
+
+Google Fonts
+
+Project Structure
+
+/css-blog
+│── index.html
+│── css/
+│ └── styles.css
+│── images/
+│ ├── boardwalk.png
+│ └── fav-icon.png
+└── README.md
+
+Installation & Usage
+
+Clone the repository:
+
+git clone https://github.com/bhavikthakur/css-blog-dummy.git
+
+Open the index.html file in your preferred browser.
+
+Customize the styles in styles.css as needed.
+
+How to Contribute
+
+If you'd like to contribute:
+
+Fork the repository.
+
+Create a new branch:
+
+git checkout -b feature-branch
+
+Make your changes and commit:
+
+git commit -m "Added new feature"
+
+Push to your branch:
+
+git push origin feature-branch
+
+Open a pull request.
+
+Credits:
+
+Challenge provided by Kevin Powell.
+
+Developed by Bhavik Thakur.
+
+Live Preview
+
+You can check out the live version here :
+https://bhavikthakur.github.io/css-blog-dummy/
+
+Contact
+
+LinkedIn: Bhavik Thakur
+
+GitHub: bhavikthakur
