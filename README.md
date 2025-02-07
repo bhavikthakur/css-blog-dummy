@@ -1,71 +1,46 @@
-CSS Blog
+#  📄 CSS Vibes - A Simple CSS Blog  
 
-Overview
+CSS Vibes is a minimalist one-page blog built using HTML and CSS. It highlights the beauty of CSS styling while maintaining a clean, responsive design. This project was created for fun and serves as a great example of how CSS can enhance web content.
 
-This is a simple yet elegant CSS Blog page built as part of Kevin Powell's challenge. The project focuses on responsive design and modern CSS best practices, utilizing Flexbox, CSS Variables, and a mobile-first approach.
+## 🛰 Live Demo  
+🔗 [View Project](https://bhavikthakur.github.io/css-blog-dummy/)  
 
-Features
+## 📸 Preview  
+![Project Screenshot](./design/desktop-view.png)  
+![Project Screenshot](./design/mobile-view.png)   
 
-Responsive Design: Adapts to different screen sizes for a seamless user experience.
+## 📌 Features  
+✔️ 🎨 Clean & Modern Design – Aesthetic styling using CSS. <br>
+✔️ 📱 Fully Responsive – Optimized for desktop, tablet, and mobile screens. <br>
+✔️ 🚀 Fast & Lightweight – Simple HTML & CSS with no external frameworks. <br>
+✔️ 🔗 Useful Links – External resources for learning more about CSS. <br>
 
-Modern Styling: Utilizes CSS variables for easy customization.
+## 🛠️ Built With  
+- **HTML5**   <br>
+- **CSS3**   <br>
+- **Google Fonts (Poppins)**    <br>
+- **CSS  Media Queries** 
 
-Optimized for Performance: Implements lazy loading for images and resets default browser styles.
-
-Accessibility Considerations: Uses semantic HTML for better readability and accessibility.
-
-Technologies Used
-
-HTML5
-
-CSS3 (Flexbox & Media Queries)
-
-Google Fonts
+## 📂 Folder Structure  
+/project-folder <br>
+│── /css <br>
+│   ├── reset.css        # Resets default browser styles <br>
+│   ├── styles.css       # Main styling file <br>
+│   ├── media-queries.css # Responsive styles <br>
+│── /images             # Contains all images & icons <br>
+│── index.html          # Main HTML file <br>
+│── README.md           # Documentation <br>
 
 
-Installation & Usage
 
-Clone the repository:
+## 🔧 Setup & Usage  
+1. Clone this repository:  
+   ```bash
+   git clone https://github.com/YOUR_GITHUB_USERNAME/social-links-profile.git    
+2. Open index.html in your browser. 
 
-git clone https://github.com/bhavikthakur/css-blog-dummy.git
 
-Open the index.html file in your preferred browser.
-
-Customize the styles in styles.css as needed.
-
-How to Contribute
-
-If you'd like to contribute:
-
-Fork the repository.
-
-Create a new branch:
-
-git checkout -b feature-branch
-
-Make your changes and commit:
-
-git commit -m "Added new feature"
-
-Push to your branch:
-
-git push origin feature-branch
-
-Open a pull request.
-
-Credits:
-
-Challenge provided by Kevin Powell.
-
-Developed by Bhavik Thakur.
-
-Live Preview
-
-You can check out the live version here :
-https://bhavikthakur.github.io/css-blog-dummy/
-
-Contact
-
-LinkedIn: Bhavik Thakur
-
-GitHub: bhavikthakur
+## 🤝 Connect With Me  
+👨‍💻 GitHub: [bhavikthakur](https://github.com/bhavikthakur)  <br>
+💼 LinkedIn: [Bhavik Thakur](https://www.linkedin.com/in/bhavik-thakur/)  <br>
+🐦 Twitter: [Bhavik Thakur](https://x.com/BhavikkThakur)  <br>
