@@ -36,7 +36,7 @@ CSS Vibes is a minimalist one-page blog built using HTML and CSS. It highlights 
 ## 🔧 Setup & Usage  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/social-links-profile.git    
+   git clone https://github.com/bhavikthakur/css-blog-dummy.git   
 2. Open index.html in your browser. 
 
 
